@@ -1,4 +1,4 @@
-def statements():
+def ToF():
     statement = []
     statement.append(['True or False: Capital of India is Delhi. ', 'T'])
     statement.append(['True or False: Capital of France is Madrid. ', 'F'])

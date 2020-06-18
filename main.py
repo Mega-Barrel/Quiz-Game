@@ -12,6 +12,7 @@ def main():
     print('|                              |')
     print('| 1. True or false quiz        |')
     print('| 2. Sports Trivia Questions   |')
+    print('| 3. Geography Trivia Questions|')
     print('|------------------------------|')
     print('|------------------------------|')
 
@@ -20,6 +21,8 @@ def main():
     if choice == '1':
         play_quiz(choice)
     elif choice == '2':
+        play_quiz(choice)
+    elif choice == '3':
         play_quiz(choice)
     else:
         print('Invalid Choice.')

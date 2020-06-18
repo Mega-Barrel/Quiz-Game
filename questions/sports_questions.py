@@ -1,4 +1,4 @@
-def statements():
+def sport_ques():
     statement = []
     statement.append(['What country won the very first FIFA World Cup in 1930? ', 'Uruguay'])
     statement.append(['When Michael Jordan played for the Chicago Bulls, how many NBA Championships did he win? ', 'Six'])
